@@ -7,3 +7,5 @@ Patrick Neri de Oliveira
 - Para testar, basta instalar o APK do link disponível logo abaixo.
 - [LINK PARA DOWNLOAD DO APK](https://drive.google.com/file/d/1bpGpl9CyOPfxkiCHLIjZMjv6NSKEUlhH/view?usp=sharing)
 - Será necessário ativar permissão na configuração do celular para instalar APK de fontes desconhecidas.
+
+![](https://drive.google.com/file/d/1yKs50zTyyYgTii3iAvfqHG-iLRcoDXOO/view?usp=sharing)
