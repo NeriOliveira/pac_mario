@@ -1,6 +1,6 @@
 # pac_mario
 
-Jogo criado como proposta para o Desafio Técnico 2 da Escribo.
+Jogo criado como proposta para o Desafio Técnico para a Escribo.
 Patrick Neri de Oliveira
 
 ## Instruções:
